@@ -1,10 +1,11 @@
 ## Features
 
 - Send and receive text messages in real-time
+- Create and join chat rooms
 - Share images and other media files
 - View online/offline status of other users
 - Push notifications for new messages
-- User authentication and secure login
+- User authentication and secure login [Done]
 - User profile customization
 
 ## Technologies Used
@@ -20,23 +21,15 @@
 2. Open the project in Xcode.
 3. Run the app on a simulator or on a physical iOS device.
 
-## Contributing
-
-We welcome contributions from anyone! If you would like to contribute to SwitChat, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature/bugfix.
-3. Make changes and commit them.
-4. Push your changes to your forked repository.
-5. Submit a pull request to the main repository.
+## Known Issues
+- 
 
 ## Credits
 
-SwitChat was created by [Your Name] and [Collaborator's Name]. We would like to thank the following resources for their help in building this app:
+SwitChat was created by Max Ward (ward.maximiliano@gmail.com).
 
 - Firebase Documentation
 - Swift Programming Guide
-- Stack Overflow
 
 ## License
 
